@@ -478,7 +478,7 @@ xlsxFile("../../../OneDrive/Translation/Periodic Table others.xlsm").then((rows)
       </path></svg> 
       <span class="coffee text-xl">Buy me a coffee</span></div></a></div>`,
       "<div class='flex flex-wrap justify-center p-2 pb-8 self-center'>Made for&nbsp; <span style='color:#e25555'>❤</span> &nbsp;by <a target='_blank' href='https://twitter.com/MrNaveenCS/' rel='noopener noreferrer'>",
-      "<span class='linkText'>Naveen CS</span>",
+      "<span class='linkText'>Irfan Ananda Ismail S.Pd</span>",
       "</a></div>",
       "</section>",
       "<!-- Cloudflare Web Analytics --><script defer src='https://static.cloudflareinsights.com/beacon.min.js' data-cf-beacon='{\"token\": \"667af63b5e7d4de992a251a834464e5d\"}'></script><!-- End Cloudflare Web Analytics -->",
